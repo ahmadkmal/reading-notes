@@ -8,7 +8,7 @@
 |exercise name | the link     | 
 |--------------|--------------|
 |class-01      | [link](https://ahmadkmal.github.io/reading-notes/class-01)            |     
-|class-02      |  link        |
+|class-02      |  [link](https://ahmadkmal.github.io/reading-notes/class-02)            |
 |class-03      |  link        |
 |class-04      |  link        |
 |class-05      |  link        |
