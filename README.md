@@ -20,5 +20,5 @@
 |class-11      |  [link](https://ahmadkmal.github.io/reading-notes/class-11)           |
 |class-12      |  [link](https://ahmadkmal.github.io/reading-notes/class-12)           |
 |class-13      |  [link](https://ahmadkmal.github.io/reading-notes/class-13)           |
-|class-14      |  link        |
-|class-15      |  link        | 
+|class-14a      |  [link](https://ahmadkmal.github.io/reading-notes/class-14a)           |
+|class-14b      |  [link](https://ahmadkmal.github.io/reading-notes/class-14b)           | 
