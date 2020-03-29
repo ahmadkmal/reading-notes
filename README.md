@@ -7,7 +7,7 @@
 
 |exercise name | the link     | 
 |--------------|--------------|
-|READ-01      | READ-01)            |     
+|READ-01      | [READ-01](https://ahmadkmal.github.io/reading-notes/READ-1)            |     
 |READ-02      |  READ-02)           |
 |READ-03      |  READ-03)           |
 |READ-04      |  READ-04)           |
